@@ -1,25 +1,62 @@
-# Responsive NGO Website — Updated with Photos
+# Hope Foundation NGO Website
 
-This project follows the supplied five-page NGO wireframe for DCOMP 204.
+A responsive NGO and community support landing page designed to highlight a nonprofit’s mission, programs, projects, and donation opportunities. The site is built as a lightweight static website and is suitable for quick deployment or as a front-end foundation for a larger nonprofit web presence.
 
-## Pages
-- Home
+## Overview
+
+This project presents a modern nonprofit style with sections for:
+
+- Home / hero messaging
 - About Us
-- Services / Programs
-- Projects (category filters work)
-- Contact (front-end validation and confirmation)
+- Services and Programs
+- Projects and impact stories
+- Contact and donation calls to action
 
-## Run
-Open `index.html` in a browser. The photographs are inserted directly in the HTML and load from Unsplash's image CDN, so an internet connection is required to display them. The layout and styling are stored locally in `style.css`, and interactivity is in `script.js`.
+The layout is mobile-friendly and uses a clean, minimal design to emphasize trust, accessibility, and community engagement.
 
-## Before submission
-- Replace sample contact information with verified NGO details.
-- Connect the contact form to a backend/email service if you need to receive messages.
-- Take screenshots on mobile, tablet and desktop.
-- Upload the source files to GitHub and include the required A3 design board.
+## Project Structure
 
-Images are from Unsplash. Review the [Unsplash License](https://unsplash.com/license); attribution is appreciated.
+```text
+ngo_responsive_website/
+├── index.html          # Main website structure and content
+├── style.css           # All layout, color, typography, and responsive styling
+├── asset/              # Reserved for local images or branding assets
+├── README.md           # Project documentation
+└── .git/               # Git metadata
+```
 
+## Key Features
 
-## Logo
-The supplied NGO logo is saved locally at `assets/ngo-logo.jpeg` and used in the site header and footer.
+- Responsive navigation menu for smaller screens
+- Hero section with donation and involvement CTA buttons
+- Multi-section content for mission, focus areas, and values
+- Services/program cards with supporting imagery
+- Project grid with category filtering layout
+- Contact form and organization contact details
+- Social media and footer links
+- Clean CSS-based design without a heavy framework
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Responsive web design principles
+
+## Local Development
+
+Because this is a static front-end project, you can run it in either of the following ways:
+
+1. Open the project folder and launch `index.html` directly in your browser.
+2. Or serve it locally using a simple HTTP server:
+
+```bash
+python -m http.server 8000
+```
+
+Then visit:
+
+```text
+http://localhost:8000
+```
+
+ 
