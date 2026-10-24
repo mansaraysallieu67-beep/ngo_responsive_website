@@ -59,4 +59,18 @@ Then visit:
 http://localhost:8000
 ```
 
- 
+
+
+ <img width="1920" height="1404" alt="Screenshot 2026-10-23 at 17-42-29 NGO Together for a Brighter Future" src="https://github.com/user-attachments/assets/f098c968-592e-4683-bb48-9e17ff2bcc6e" />
+
+ <img width="1920" height="1779" alt="Screenshot 2026-10-23 at 17-42-41 NGO Together for a Brighter Future" src="https://github.com/user-attachments/assets/994f418d-dacb-4f0b-bc30-c1883e06133e" />
+
+<img width="1920" height="1516" alt="Screenshot 2026-10-23 at 17-42-48 NGO Together for a Brighter Future" src="https://github.com/user-attachments/assets/4caf6d27-b55b-4847-950a-736304391ae1" />
+
+
+<img width="1920" height="1432" alt="Screenshot 2026-10-23 at 17-42-57 NGO Together for a Brighter Future" src="https://github.com/user-attachments/assets/d4ea5b8b-f502-4d66-bc09-442d788be59e" />
+
+<img width="1920" height="1231" alt="Screenshot 2026-10-23 at 17-43-04 NGO Together for a Brighter Future" src="https://github.com/user-attachments/assets/a4fe307d-c166-4879-80dd-de448a27c300" />
+
+
+
